@@ -1,1 +1,1 @@
-# AzureFunctionServiceBusTrigger
+# Azure Function Service Bus Trigger
